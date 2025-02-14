@@ -46,7 +46,7 @@ Buddi is a **social media platform** designed exclusively for university student
 
 | Light Mode | Dark Mode |  
 |------------|------------|  
-| <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Buddi%20App/4.jp" width="200" height="500"/> | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Buddi%20App/4.1.jp" width="200" height="500"/> |  
+| <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Buddi%20App/4.jpg" width="200" height="500"/> | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Buddi%20App/4.1.jpg" width="200" height="500"/> |  
 
 👉 **[View More Screenshots](screenshots.md)**  
 
