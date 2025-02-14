@@ -54,7 +54,7 @@ Buddi is a **social media platform** designed exclusively for university student
 
 ## 🎥 Demo Video  
 
-[![Watch the video](https://img.youtube.com/vi/DBJaZV5X7SA/maxresdefault.jpg)](https://youtu.be/DBJaZV5X7SA)
+[![Watch the video](https://img.youtube.com/vi/DBJaZV5X7SA/hqdefault.jpg)](https://youtu.be/DBJaZV5X7SA)
 
 ---
 
