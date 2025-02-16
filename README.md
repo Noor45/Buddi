@@ -6,6 +6,21 @@ Buddi is a **social media platform** designed exclusively for university student
 
 ---
 
+## 🎥 Demo Video  
+
+[![Watch the video](https://img.youtube.com/vi/DBJaZV5X7SA/hqdefault.jpg)](https://youtu.be/DBJaZV5X7SA)
+
+---
+
+## 🛠️ **Technologies Used**  
+
+- **Flutter** (Cross-platform mobile development)  
+- **Dart** (Programming language)  
+- **Firebase** (Authentication, Database, Notifications)  
+- **REST API** (For data exchange)  
+
+---
+
 ## 🚀 Features  
 
 ### 🎓 University-Based Community  
@@ -50,17 +65,4 @@ Buddi is a **social media platform** designed exclusively for university student
 
 👉 **[View More Screenshots](screenshots.md)**  
 
----
 
-## 🎥 Demo Video  
-
-[![Watch the video](https://img.youtube.com/vi/DBJaZV5X7SA/hqdefault.jpg)](https://youtu.be/DBJaZV5X7SA)
-
----
-
-## 🛠️ Installation & Setup  
-
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/Noor45/Buddi.git
-cd buddi-app
