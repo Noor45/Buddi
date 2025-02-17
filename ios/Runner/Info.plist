@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Buddi</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>buddi</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-3940256099942544~1458002511</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This app wants to use your photos to pick image for your profile picture</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Explain the reasons for accessing...</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Explain the reasons for accessing...</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>MyApp does not need this permission</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app need camera access for your profile photo.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app needs access to save photos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app wants to use your photos to pick image for your profile picture</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>NSContactsUsageDescription</key>
+	<string>MyApp does not need this permission</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>MyApp does not need this permission</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app uses the microphone to send voice message in the chat.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>MyApp does not need this permission</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>MyApp does not need this permission</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This identifier will be used to deliver personalized ads to you.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>sms</string>
+		<string>tel</string>
+	</array>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+</dict>
+</plist>

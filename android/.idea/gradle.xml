@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/admob_flutter-3.0.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/audio_session-0.1.10/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.5.1/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_functions-3.3.9/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/emoji_picker_flutter-1.4.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.11.2/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.24.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_crashlytics-2.9.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-13.1.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.3.11/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-9.1.4/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sound-9.2.13/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.5+3/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/just_audio-0.9.29/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/modal_progress_hud_nsn-0.3.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.20/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_android-10.1.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.14/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.1.0+1/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.19/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.3.9/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.6.2/android" />
+            <option value="$PROJECT_DIR$/../../../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.10.4/android" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
